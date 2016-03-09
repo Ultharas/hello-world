@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Finally! I can start to use GitHub!
+Should do it long time ago
